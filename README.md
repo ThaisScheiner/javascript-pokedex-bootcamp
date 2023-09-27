@@ -3,3 +3,5 @@
 Projeto bootcamp Santander FullStack Java / Angular
 
 Criando um Pokedex usando JavaScript, HTML, CSS
+
+executando em http-server ./
